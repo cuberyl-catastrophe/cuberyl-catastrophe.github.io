@@ -1,3 +1,3 @@
-# ehren-strifling.github.io
+# cuberyl-catastrophe.github.io
 My website.  
-Link: https://ehren-strifling.github.io/
+Link: https://cuberyl-catastrophe.github.io/
